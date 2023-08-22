@@ -35,7 +35,7 @@ Set this in settings
     "*",
     ]
 
-After that you can upload this to heroku by cli
+After that you can upload this to heroku by heroku cli
 
     git init
     git add .
@@ -43,3 +43,4 @@ After that you can upload this to heroku by cli
 
     heroku git:remote -a app_name_on_heroku
     git push heroku master
+
