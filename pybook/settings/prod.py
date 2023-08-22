@@ -1,6 +1,6 @@
 from .base import *
 
-debug = True
+debug = False
 
 ALLOWED_HOSTS = [
     "*",
